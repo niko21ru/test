@@ -8,3 +8,4 @@ $ git clone https://github.com/niko21ru/test.git
 Всплывашка дописана 2222!
 
 z1
+z2
