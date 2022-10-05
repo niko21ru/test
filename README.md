@@ -9,3 +9,4 @@ $ git clone https://github.com/niko21ru/test.git
 
 z1
 z2
+z3
